@@ -1,0 +1,734 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A breviate of the state of Scotland in its government, Supream Courts, officers of state, inferiour officers, offices, and Inferiour Courts, districts, jurisdictions, burroughs royal, and free corporations</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 55 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29340</idno>
+            <idno type="STC">Wing B4415</idno>
+            <idno type="STC">ESTC R19116</idno>
+            <idno type="EEBO-CITATION">12877197</idno>
+            <idno type="OCLC">ocm 12877197</idno>
+            <idno type="VID">94866</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29340)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94866)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 731:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A breviate of the state of Scotland in its government, Supream Courts, officers of state, inferiour officers, offices, and Inferiour Courts, districts, jurisdictions, burroughs royal, and free corporations</title>
+               </titleStmt>
+               <extent>[2], 17 [i.e. 18] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ric. Chiswell ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  Politics and government --  1689-1745.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:94866:1" rendition="simple:additions"/>
+            <p>A BREVIATE OF THE STATE OF SCOTLAND IN ITS GOVERNMENT, Supream Courts, Officers of State, Inferiour Officers, Offices, and Inferiour Courts, Diſtricts, Juriſdictions, Burroughs Royal, and free Corporations,</p>
+            <p>
+               <floatingText xml:lang="eng" type="license">
+                  <body>
+                     <p>LICENSED</p>
+                     <closer>
+                        <date>
+                           <hi>April</hi> 1. 1689.</date> 
+                        <signed>James Fraſer.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Ric. Chiſwell,</hi> at the <hi>Roſe</hi> and <hi>Crown</hi> in St. <hi>Paul's Church-Yard.</hi> MDCLXXXIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:94866:2"/>
+            <pb n="1" facs="tcp:94866:2"/>
+            <head>A ABREVIATE Of the STATE of SCOTLAND In its Government, Supream Courts, Officers of State, Inferour Officers, Offices, and Infe<g ref="char:EOLhyphen"/>riour Courts, Diſtricts, Juriſdictions, Bur<g ref="char:EOLhyphen"/>roughs Royal, and free Corporations,</head>
+            <p>THE Ancient Kingdome of <hi>Scotland</hi> being governed for many Ages by Kings: Upon the Death, Removal, or Incapacity of their Kings, or in extraordinary Caſes, there was always an extraordinary meeting of the Three States, who ap<g ref="char:EOLhyphen"/>pointed Governours during the <hi>inter Regnum,</hi> or the ſame States (being as the repreſentative of the whole Body called the great Aſſembly of the Nation) Proclaim d a King, who being King, by Vertue of the whole Bodies proclaiming of him King, called a Par<g ref="char:EOLhyphen"/>liament, or more ordinarily a Convention of States, who had not power (tho' they were the ſame Members that Conſtitute a Parli<g ref="char:EOLhyphen"/>ament) to make Laws, but only to lay impoſitions upon the Sub<g ref="char:EOLhyphen"/>jects for ſome exigences. A King being once thus proclaim'd <hi>vertu<g ref="char:EOLhyphen"/>te officii &amp; Coronae inherent</hi> to the Office, though it wants the Cere<g ref="char:EOLhyphen"/>mony, or Solemnity of Coronation, Names the Officers of State; Greater and Leſſer, grants Commiſſions to the Judges fit for every Sove<g ref="char:EOLhyphen"/>raign Court, Inferiour Courts, and Juriſdictions, and grants Commiſſions to the Officers of the Crown, of the Army, the Lyon Herauld, Gover<g ref="char:EOLhyphen"/>nours of Forts, and all other Inferiour Officers in Civil and Military Aſſairs, <hi>&amp;c.</hi> Sometimes the King calls a Parliament, which is the great Council of the Nation, to Crown him and to make Laws, to corroborate or ratifie the old wholſome Laws, ſomething in deſue<g ref="char:EOLhyphen"/>tude, which makes them New Laws, becauſe when in deſuetude, and not put recently in Execution, the penalty incurr'd is become ſo Univerſal to the Nation, that the Execution in that caſe of them
+<pb n="2" facs="tcp:94866:3"/>would prove dangerous. Thus a Parliament lawfully called hath the Chancellor to preſide, if no Chancellor, they chooſe their Preſes, the Regiſter, and the Clerks of Seſſion (his Deputies) are Clerks of Parliament, and the ſame are as to a Convention. But a general Meeting of the Three States chooſe their Preſes, Clerks and other Officers and Servants, except ſuch as are heretably ſo. In time of Popery, when not only our Kings, but all in <hi>Europe</hi> had enſlaved themſelves to the Court of <hi>Rome,</hi> there was no Oath which tyed King and People to the True Apoſtolick Doctrine and Worſhip. Yet when <hi>Scotland</hi> was Reformed and the Proteſtant Religion eſtabliſhed by Law, there was an Oath enjoyned, and always taken by the King, (except of late) for profeſſing and maintaining the ſame Religion, and our Kings were never uſed to come to any part of the Regal power till they took this Oath.</p>
+            <div type="part">
+               <head>The Officers of State in that Kingdom are Eight in Number.</head>
+               <div type="subpart">
+                  <head>The Great Officers are,</head>
+                  <p>The Lord High Chancellor, who is Preſident in all Courts he ſits in, except the Theſaury and Exchecquer: he has a Penſion and a Sallery.</p>
+                  <p>The Lord High Theſaurer (or Commiſſioners) who preſides only in the Theſaury and Court of Exchecquer: A Penſion and a Sallery.</p>
+                  <p>The Lord Privy Seal, Keeper thereof, the Emoluments thereof.</p>
+                  <p>The Lords Secretary one or more, who moſt ordinarily attends at Court: A Penſion and the Emoluments of the Office.</p>
+               </div>
+               <div type="subpart">
+                  <head>The Leſſer Officers of State, are</head>
+                  <p>The Lord Regiſter; who is keeper of the Regiſter and Rolls of Par<g ref="char:EOLhyphen"/>liament, <hi>&amp;c.</hi> being a place of the greateſt truſt and Emoluments in that Kngdom, and is ordinarily a Lord of Seſſion, and has a Sallery likewiſe.</p>
+                  <p>The Lord Advocate, who adviſes and pleads all the Kings Cauſes, <hi>&amp;c.</hi> a Penſion and Emoluments.</p>
+                  <p>The Lord Juſtice Clerk, which though a very Old Office, has no Emoluments, but a Penſion.</p>
+                  <p>The Lord Theſaurer Deputy, who has the ſame Emoluments in his degree with the Theſaurer, and preſides in the Theſaury and Ex<g ref="char:EOLhyphen"/>checquer in the Theſaurers abſence, both have penſions,</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="3" facs="tcp:94866:3"/>
+               <head>The Officers of the Crown, beſides the Officers of State, are</head>
+               <p>The Preſident of the Council, and ſo takes his place next the Chan<g ref="char:EOLhyphen"/>cellor, a Penſion.</p>
+               <p>Collectors General.</p>
+               <p>Maſter of Requeſts.</p>
+               <p>Directors of the Chancery, which is an Old and Honourable Office, the Emoluments of the Office.</p>
+               <p>The Director of the Rolls.</p>
+            </div>
+            <div type="part">
+               <head>The Firſt Supream Court of the Nation is the PARLIAMENT.</head>
+               <p>IN this Court (which is ſo called by the Kings Proclamation in needful places) The King himſelf ſits immediately upon a Throne under a Canopy of State, or in his abſence (ſince King of <hi>England</hi>) by his Commiſſioner, and this Court conſiſts of three States: In time of Popery the Biſhops and Miter'd Abbots made the firſt State, but ſince, of Arch-Biſhops and Biſhops; ſometimes the Nobility and Gentry the Second; the Burroughs the Third; though there be Perſons that urge good Arguments to maintain that the Nobility, the Gentry who are repreſented by certain Commiſſioners from each Shire, and the Commſſioners from Burghs <hi>&amp;c.</hi> with the aſſiſtance of a General Aſ<g ref="char:EOLhyphen"/>ſembly ſitting makes the three States, of Parliament. The King or his Commiſſioner, with the three States the day of their meeting, ride in their Robes and foot Mantles with their Attendants from the Kings Palace in a Parliamentary way; the meaneſt State by way of pre<g ref="char:EOLhyphen"/>cedency by two and two riding formeſt, ſo by degrees, and the King or his Commiſſioner laſt to the Parliament Houſe, then the King or his Commiſſioner is conducted to the Throne, Prayer being ſaid after all placed, the Rolls are called, the Court fenced, the King, if pre<g ref="char:EOLhyphen"/>ſent, tells them the reaſons of calling them, or the Commiſſioner by the Kings Letter preſenting of his Commiſſion, and by a Speech to the Parliament tells the reaſons of their meeting, next they chooſe the Lords of the Articles; but the old Form is altered; for one State uſed to chooſe eight out of another State, which being thirty two, with the eight Officers of State, makes forty; but now by Act of Parliament its ſettled that the King or Commiſſioner chooſe the eight Clergymen, the Nobility chooſe their own eight, and thoſe ſix<g ref="char:EOLhyphen"/>teen chooſe eight of the Barons and eight of the Burgeſſes, which way of chooſing of the Members of the Articles would inſinuate a fourth State, beſides Officers of State, or elſe one of theſe called the States would ſeem to be ſuperfluous, or at leaſt not eſſentially ne<g ref="char:EOLhyphen"/>ceſſary to conſtitute a Parliament, which would make the foreſaid
+<pb n="4" facs="tcp:94866:4"/>Argument good. This is all that is done the firſt day, and ſo they ride in the ſame order to the Kings Palace. The next day, or ſometime that afternoon, the Commiſſioners meets with the Lords of the Articles to prepare matters brought into the Parliament. When a<g ref="char:EOLhyphen"/>ny thing is paſt in the Articles and Parliament by the Major Vote, the King or Commiſſioner touches it with the Scepter, which im<g ref="char:EOLhyphen"/>ports the Kings conſent, without which it is of no force, and their Votes they approve or not approve, or ſay <hi>non liquet,</hi> for there is no diſſents, or proteſts allowed in publick Acts being accounted trea<g ref="char:EOLhyphen"/>ſonable, <hi>ſed licet proteſtare in privatis pro intereſſe,</hi> and takes Inſtruments in the Regiſters hands. This Court ordains the Acts to be printed, and proclaim'd, without which they ſeem'd of old to have no import till they were <hi>legis promulgatae,</hi> notwithſtanding of any late cuſtoms introduced. This Court do reviſe or produce Acts and Decreits of any other Courts, and canvaſs the Rights and Properties of private par<g ref="char:EOLhyphen"/>ties, if not preſcribed by Law, and even in that caſe they have found preſcriptions ſhort in ſome circumſtances. This Court Names Com<g ref="char:EOLhyphen"/>miſſioners in every Shire, for Ceſs, Exciſe, Supply, <hi>&amp;c.</hi> Names Ju<g ref="char:EOLhyphen"/>ſtices of peace for high ways, Bridges, Briefs, and other things, tend<g ref="char:EOLhyphen"/>ing to the publick peace and tranquility of the Kingdom in their diviſions, and whatever might have been done in this great Court, which might furniſh grounds of grievances: Its not the fault of its Conſtitution, or of the Members thereof, ſince all is carried by the Major Vote; but ſome corrupt Nobility, that either expected, or did live by the Kings bounty, or the Repreſentatives of Shires, or Burghs, that were a packt, party, who purpoſely contriv'd the late yokes to de<g ref="char:EOLhyphen"/>bar many good honeſt Proteſtants from being capable to be Electors of Members, or Elected Members of Parliament themſelves, though otherwiſe qualified by the Ancient wholeſome Laws, to be both Electors of honeſt Men, and Elected themſelves.</p>
+            </div>
+            <div type="part">
+               <head>The Second Supream Court is the Privy Council.</head>
+               <p>THis Court conſiſts of the Chancellour, who preſides the other Officers of State, the Preſident of the Seſſion, Juſtice General and ſuch others of the Nobility and Gentry as the King pleaſes to Name, this Court was Originally appointed for the publick affairs, and are Judges of Riots, and diſturbances given to the peace of the Nation, but it aroſe to its highth only when King <hi>James</hi> came to <hi>En<g ref="char:EOLhyphen"/>gland,</hi> who placed much of the power anent the publick ſafety and peace of that Kingdom in the Privy Council: Yet till of late this Court did never decide in Civil or Criminal cauſes occaſioning any de<g ref="char:EOLhyphen"/>bates, but remitted the ſame unto the Judge Ordinary, either, <hi>viâ or<g ref="char:EOLhyphen"/>dinariâ,</hi> by raiſing of formal proceſſes, or ſummarily by remitts, and the parties application to the Judge, or Judicator competent: Many think this extraordinary power given to this Court was a ready way, not only to introduce the diſpenſing power, but alſo an Arbitrary Government into that Kingdom, the Council having no bounds
+<pb n="5" facs="tcp:94866:4"/>further than to obey whatever the King by Evil Miniſters ſuggeſted to them by Letters, or other ways, and if there could be an Union happi<g ref="char:EOLhyphen"/>ly concluded betwixt the Two Nations, the deciding of Riots, <hi>&amp;c.</hi> might be done by the Sheriffs of the ſeveral Shires, and if difficult, the Lords of Seſſion by a diſtinct <hi>ſederunt</hi> from that of the Seſſion, once or twice a Week might decide all theſe affairs, competent to a Privy Council themſelves, being made up of ordinar and extraordi<g ref="char:EOLhyphen"/>nar Lords, and this would be a great eaſe to the Lieges, not to be obliged to attend Two Courts where one might ſerve. This being only Honourable they have neither Penſions nor Caſualities.</p>
+            </div>
+            <div type="part">
+               <head>The Third Supream Court is the Seſſion called the Colledge of Justice <hi>a Capite,</hi> or <hi>Nobiliore parte.</hi>
+               </head>
+               <p>THis Court being one of the moſt Noble, Decent, and moſt or<g ref="char:EOLhyphen"/>derly Courts in <hi>Europe,</hi> both from its firſt Foundation and la<g ref="char:EOLhyphen"/>ter Conſtitution by King <hi>James</hi> the Fifth, who (by its newer founda<g ref="char:EOLhyphen"/>tion, created it a Colledge of Juſtice after the form of the Supream Soveraign Court or Parliament of <hi>Paris</hi>) gave it great Priviledges, Emoluments, and Immunities, before it was ſo Erected, it was called in <hi>Scotland</hi> the Kings Council, or the Lords called the Lords of Council and Seſſion, which Title, they ſtill carry, being firſt a Committee of Parlia<g ref="char:EOLhyphen"/>ment, and was an Ambulatory Court by Circuits, when its thought they had a cumulative and diſtributive Juriſdiction centered in one, which made it both Civil and Criminal: This moſt Honourable Court now conſiſts of one conſtant Preſident and fourteen Senators, who have but mean Salleries not ſuteing the Grandeur of their Character, or their fatigue or attendants, being but two hundred pound Engliſh yearly to each Senator: The Lord High Chancellor preſides here when pre<g ref="char:EOLhyphen"/>ſent, but ſpeaks little, except he be a bred Lawyer; the King Names ſe<g ref="char:EOLhyphen"/>veral other extraordinar Lords, who ſit but are not obliged to atten<g ref="char:EOLhyphen"/>dance, becauſe they have no Salleries but Votes with the reſt: This Court now ſits the firſt of <hi>June,</hi> and riſes the laſt of <hi>July,</hi> and va<g ref="char:EOLhyphen"/>cates till the firſt of <hi>November,</hi> at which time they ſit again, till the twentieth of <hi>December,</hi> and then it vacates till the Tenth of <hi>January,</hi> when they ſit again, and riſes the laſt of <hi>February:</hi> Many thinks the Chriſtmas vacance too long which occaſions their Seſſion from the firſt of <hi>November,</hi> till the twentieth of <hi>December</hi> by reaſon of the en<g ref="char:EOLhyphen"/>ſuing vacance to have but little effect. In time of Seſſion they ſit from Nine of the Clock, till Twelve in the forenoon, all the days of the Week, except <hi>Sunday</hi> and <hi>Monday;</hi> they ſit ſometimes in the afternoon, to end concluded cauſes, or to hear long debates, the fore<g ref="char:EOLhyphen"/>noon being ſhort to hear them. The Lord <hi>Stain</hi> when Preſident in the year 1676 procured a Warrant from the King, giving power to the Preſident to call the Lords in the Afternoon together to hear and diſpatch buſineſs, which was a great occaſion of diſpatching the Lie<g ref="char:EOLhyphen"/>ges affairs, and the Lords follows much of the ſame Methods as yet: The Senators in the Inner Houſe, with the other extraordinar Lords, ſit in a ſemicircle Bench, in their Robes in the forenoon, but wanting
+<pb n="6" facs="tcp:94866:5"/>them in the afternoon, to hear Petitions, Proceſſes reſum'd by the Clerks, and Advocates debates their Clients cauſe: They have three or ſix principal Clerks, who <hi>per vices</hi> as they are imployed minutes the Heads of great and weighty cauſes and debates, and writes the deliverance of Bills, Interloquitors, and deſinitive Sentences by the Lords in the Inner-houſe, which makes Decreits, and which determines all buſineſs in that Court, there being no appeals from it to any other Court, but by application to themſelves before extract, or Reduction, or Suſpenſion in common Form: Which in the ſecond inſtance comes always before themſelves, and muſt be upon other new grounds than was formerly repreſented: Nine of the Lords makes a <hi>Quorum</hi> in the Inner-Houſe, otherwiſe they cannot Vote in any Caſe, except in par<g ref="char:EOLhyphen"/>ticular Caſes referred to one or more by the Hall Lords, and one of the Senators (the Preſident always being excepted) is Weekly appointed Judge in the outerhouſe for diſcuſſing of ordinary Actions, who ſits upon a Bench with the ſix under Clerks ſitting be<g ref="char:EOLhyphen"/>fore him, who minutes likewiſe in their courſe as they do in the In<g ref="char:EOLhyphen"/>ner-Houſe all Debates or Writs, Signatures or Sentences of ordinary Cauſes decided by the Ordinar, who meddles with no extraordinary caſe, except where it's remitted to him by all the Lords to be diſcuſt, in the outerhouſe for diſpatch. There is a Roll of ordinary Actions, ſuch as ſummons, ſimple reduction, improbation, recognition, <hi>&amp;c.</hi> Advocations and Suſpenſions in another Roll, for the outer-Houſe, when theſe are called: Terms granted, Acts extracted, which when called here are either Sentences pronounced by the Ordinar in the Outer-houſe, and ſo Decreeted, or elſe the parties craves a Repreſentati<g ref="char:EOLhyphen"/>on of one point or more to the Hall Lords, and the Ordinar to make a report of their interloquitor, which he reports in the Outer-Houſe the next day ordinarily, or at the ſide Bar, the next Week, but the moſt of cauſes in the outer Houſe, eſpecially of conſequence comes to the Inner, Houſe, by making an <hi>aviſandum</hi> to all the Lords, and is Inrolled in courſe by Warrant in the Inner-Houſe Roll of ordina<g ref="char:EOLhyphen"/>ry Actions, which in its courſe again comes to be called in the Inner-Houſe before the Hall Lords, and after debate, either there is a deciſi<g ref="char:EOLhyphen"/>on, or the cauſe is concluded. Where there is any probation led and inroll'd <hi>de novo</hi> in the Roll of concluded cauſes in the Inner Houſe, then it's adviſed by the Hall Lords with cloſe doors, and where there is any difficulty after the Preſident reſumes the Hall cauſe and debate, and the Lords calls the parties, and their proctors to ſee if they have any further thing to ſay, and ordinarily they have nothing material to add: Then the Lords orders them to remove, and upon ſerious deliberation they Debate and Vote, and calls in the party and their Advocates, and by the mouth of their Preſident declares their Sen<g ref="char:EOLhyphen"/>tence definitive, which is a Decreit to be extracted, as all other De<g ref="char:EOLhyphen"/>creits are by the Clerks, conform to the Minutes and Warrants of the Proceſs, if there be more ſheets in the Decreit than one: The principle Clerk ſideſigns the joyning of every two ſheets, and the Lord Regiſter ſubſcribes the laſt Sheet of the Decreit, which contains the Hall Libel, as it is in the Summons, the Executions, Debates, and Interloquitors of the Outer and Inner-Houſe and the Lords Sentence:
+<pb n="7" facs="tcp:94866:5"/>This is a <hi>Vidimus</hi> of the Lords of Seſſions procedure, but of all the Courts in that Kingdom their Decreits and precedure are moſt formal. So that the Lords by their conſtitution are obliged to do nothing, but by the greateſt deliberation in the World, upon theſe Decreits the parties raiſe horning, and other diligence under the Kings Signet for payment of the debt or ſecuring of the debtors Eſtate for payment thereof. This Court is ſaid to have a diſtributive Juriſdiction only, but no competent Judicator for life or Limb, &amp;c. But for faults competent to themſelves too tedi<g ref="char:EOLhyphen"/>ous to inſert here, being intended but an abreviate. This Court makes acts of <hi>ſederunt,</hi> equivolent to Laws and Acts of Parliament, and are in force till they be approved of, as ordinarily they are, or recall'd by Parliament, which is ſeldom, or never, becauſe the Lords of Seſſion are the proper interpreters of Acts of Parliament, who have a Bench in Parliament, not as Judges, but ſit there in time of Parliament, to give their opinion to the Parliament, when required in matters of intricacy. The Lords of Seſſion make their own Collectors and o<g ref="char:EOLhyphen"/>ther Servants of the houſe, except the four ordinary Macers who ſerve them in time of Seſſion, and have their Commiſſions from the King, with yearly penſions beſides their ordinary dues from parties. The Lords appoints certain of their number weekly to ſit upon all Bills of Suſpenſion, <hi>&amp;c.</hi> And for examining of Witneſſe by turns. This Court having formerly been called the Kings Council for the reaſons foreſaid, had not only a diſtributive, but a cumulative Juriſdiction. The reaſons for dividing and giving part of their Power to the Privy Coun<g ref="char:EOLhyphen"/>cil, and partly to the Juſtice Court is not ſit now to be urged. The reſtricting the power of this Court, and imparting it to others, and diſplacing Judges that were honeſt men, Notwithſtanding their Commiſſion <hi>(ad vitam &amp; culpam)</hi> who could not comply with any deſigns againſt their Conſcience, and placing men not fit for that weighty imployment, or that would comply, was a ready tool to ſerve that prerogative (which ſome Parliaments gave the King, by the help of evil Miniſters, that were either too forward, or others that connived at any thing was enjoyned them) to a Stretch of funda<g ref="char:EOLhyphen"/>mentals, tending always by degrees to a deſpotick power and arbi<g ref="char:EOLhyphen"/>trary Government. This Court likewiſe, has an Ordinar at the ſide Bar, which (though not in their Conſtitution) diſpatch much ordinary buſineſs, and is pretty well regulate within theſe two years, allowing none at the Bar but one at once, ſome think (as was hinted before) that this Court might ſupply the Privy Council for the eaſe of the Lieges.</p>
+            </div>
+            <div type="part">
+               <head>The fourth Soveraign Court, is the Juſtice or Crimi<g ref="char:EOLhyphen"/>nal Court having a Cumulative Juriſdiction.</head>
+               <p>THis Court came in place of the Juſtice Eir, or Juſtice General, which was laſt of all in the Perſon of the Earl of <hi>Argile,</hi> who tranſacted for it with King <hi>Charles</hi> firſt; and was made then Juſtice General of all the Iſlands, which raiſed great debates betwixt him
+<pb n="8" facs="tcp:94866:6"/>and ſome pretended heritable Sheriffs there, and that Juriſdiction was taken away by the Parliament, 1672. Which was erected in a Juſtice, or Criminal Court, this Court conſiſts of the Juſtice Gene<g ref="char:EOLhyphen"/>ral alterable at the Kings pleaſure, Juſtice Clerk, and five other Judges, who are Lords of the Seſſion; and this Court ordinarly ſits upon Monday, and goes ſometimes to the Country by Circuits, which the Country found to be very uneaſie to them: The ordinary Clerk of this Court has his Commiſſion from the Juſtice Clerk, They have four ordinary Macers and a Doomſter appointed by the Lords. The Clerk raiſes a libel or inditment upon a Bill paſt by any of the Lords thereof, at the inſtance of the Perſuer againſt the Defender a cri<g ref="char:EOLhyphen"/>minal, who is readily incarcerated after citation. When the Party, Witneſſes, and great Aſſize or Jury of forty-five are cited, the day of compearance being come fifteen of the greateſt Aſſize is choſen to be the Aſſize upon the pannal or priſoner at the Bar; if he be a Peer, moſt part of his Aſſize are Peers, and the Aſſize ſits with the Judges to hear the Libel read, witneſſes examined, and the debates <hi>hinc in<g ref="char:EOLhyphen"/>de,</hi> which is <hi>verbatim,</hi> written in the adjournal Books. The Kings Advocate pleads for the Perſuer, being the Kings Cauſe, and other Advocates for the pannal, the debates being cloſed, they either find the Libel or Inditement not relevant, in which caſe they deſert the Diet, and aſſoiles or abſolves the party, or if relevant then in that caſe the Aſſize or Jury of fifteen is removed to a cloſer Room, none being preſent with them, where they chooſe their own Chancellor and Clerk, and conſiders the Libel, Depoſition, and Debates, and brings in their Verdict of the pannal Sealed, guilty or not guilty, if not guilty the Lords abſolves, if guilty they condemn and declares their Sentence of condemnation, and the puniſhment to be put in Execution againſt the pannal by a Macer, and the mouth of the Doomſter. So the Pannal is carried to priſon till the Sentence be put in Execution. Of Late the Kings Advocate have brought in an uſe of raiſing a Summons of an Aſſize of error againſt the Aſſizers, if they find not guilty, and they are tried as the other Pannal, which occaſioned a great deal of grumble and murmur, Men chooſing, (be<g ref="char:EOLhyphen"/>ing upon Soul and Conſcience) rather to be fined, than to be Aſſizers. All theſe Lords have penſions.</p>
+            </div>
+            <div type="part">
+               <head>The fifth Supream Court is the Exchequer or pro<g ref="char:EOLhyphen"/>perly the Kings Baron Court.</head>
+               <p>THis Court conſiſts of the Lord High Theſaurer, who preſides, though the Lord Chancellor were preſent, or Commiſſioners in place of Theſaurer and Theſaurer Deputy, who preſides even a<g ref="char:EOLhyphen"/>mong the Commiſſioners being one himſelf, or in abſence of the ſaid Lord Theſaurer. There are ſeveral Aſſiſtants to them who are called the Lords of Exchequer, who have little power, becauſe the Theſaurer or Commiſſioners, and Theſaurer Deputy, who carry all as they pleaſe, becauſe they but Sign in Exchequer whatever the The<g ref="char:EOLhyphen"/>ſaurer,
+<pb n="9" facs="tcp:94866:6"/>or Commiſſioners and Theſaurer Deputy, reviſe and paſs in the Theſaury Chamber: Before this Court was formerly over-ruled by the Comptrouler of the Kings Accompts, and the Maſter of Requeſts. All the Kings grants whether Commiſſion, new Charters, or Charters of confirmation, with <hi>de novo damus,</hi> Confirmations of Subvaſſals, Charters from their Superiors to prevent forfeiture, and other things which paſs of courſe for ſmall compoſition, gifts of ward, ſingle or taxed, Letters, Penſions, <hi>&amp;c.</hi> are reviſed and componed by the The<g ref="char:EOLhyphen"/>ſaurer or Commiſſioners and Theſaurer Deputy, paſs in this Court; and there are few debates before it, for where there is any matter of Law, it is remitted to the Judge Ordinar, if there be any new Signatures. Parties Leaſed or injur'd compear, and give in Petitions to be heard, and ſo they are either paſt Simpliciter, or with proteſtation are ſtopt, till the cauſe be further repreſented. The Kings will was a Law in this Court, and ſo whatever the prevailing Miniſters Suggeſted to be the Kings pleaſure, was readily comply'd with there, by ſome, and connived at by others, The Lords have no Penſions nor Emoluments.</p>
+            </div>
+            <div type="part">
+               <head>There is a Sixth Court called a Soveraign Judica<g ref="char:EOLhyphen"/>tor, wich is the Admiral Court.</head>
+               <p>THIS Court came firſt to an hight by King <hi>James</hi> VI. Act, Parl. 18. cap. 10, <hi>&amp;c,</hi> And this Act Ratified and further ex<g ref="char:EOLhyphen"/>tended by King <hi>Charles</hi> II. Parl. 2. cap. 16. And further amplified by the Act 1681. Declaring it a Soveraign Court in it ſelf. His Royal Highneſs the Duke of <hi>York</hi> being then Lord High Admiral, and was the Kings Lieutenant, and Juſtice General on the Seas, and all Ports, Harbours, and Creeks thereof, and upon freſh Waters or Navigable Rivers below the firſt Bridges, or within the higheſt Flood marks; where there was no Bridges, he had the ſole Juriſdiction in all mari<g ref="char:EOLhyphen"/>tine Cauſes, Forreign or Domeſtick, Civil or Criminal, Excluſive of all other Judicators, with many other Priviledges; He reduces De<g ref="char:EOLhyphen"/>creits of Inferiour Admiral Courts, and revives his own. No advocation from, or ſuſpention of theſe Decreits, but by the whole Lords of Seſ<g ref="char:EOLhyphen"/>ſion in time of Seſſion, and by three in time of vacancy, and muſt be diſcuſt Summarly without the order of a Roll, and that the Admiral and his Deputy have the ſole Right of granting Paſſes or ſafe Conduct to all Ships, <hi>&amp;c.</hi> In that Parliament there was ſtrong debates to op<g ref="char:EOLhyphen"/>poſe this Act; Shewing, That it would be a retrenching of the Pow<g ref="char:EOLhyphen"/>er and Priviledges of the Lords of Counſel and Seſſion, and incroach<g ref="char:EOLhyphen"/>ment thereupon, <hi>&amp;c.</hi> This Court which is kept by the Judge Admi<g ref="char:EOLhyphen"/>ral only and his Deputies, meddles with Bills of Exchange of Merchants, which is thought to be extrinſick to that Court, and no doubt, is ve<g ref="char:EOLhyphen"/>ry proper and convenient for encouraging of Trade and Commerce, and for the credit of the Nation abroad, with Forreign Merchants, that there ſhould be a particular Court erected of honeſt knowing Merchants, who are the only proper known Perſons to judge in ſuch Caſes, and requiring Summar Execution, for many reaſons that might be
+<pb n="10" facs="tcp:94866:7"/>given. This Court alſo ſince its Soveraignity was extended, the Judges thereof were active enough to ply their time, the benefit of their Sentences accrewing to themſelves, he making himſelf a Judge competent, in actions not competent for him, as was ſaid already, or in caſe the Cuſtoms were put in a Commiſſion, the Judges whereof no doubt ſhould be knowing Merchants, who did not traffick them<g ref="char:EOLhyphen"/>ſelves, and would be ſit Judges in Debates anent Bills of Exchange. Theſe have the Emoluments of the Court.</p>
+            </div>
+            <div type="part">
+               <head>The Second Great Heritable Offices in the Kingdom; are</head>
+               <p>The Lord High <hi>Conſtable.</hi>
+               </p>
+               <p>The Lord <hi>Marſhal,</hi> and theſe Exerciſe their Juriſdictions, and keep their Guards in <hi>Edinburgh</hi> and the Parliament Houſe, the time of the Meeting of the General States of Parliament, or Convention.</p>
+               <p>The Heritable Uſher.</p>
+               <p>The Crown Bearer.</p>
+               <p>The Scepter Bearer.</p>
+               <p>The Purſe Bearer.</p>
+               <p>The Sword Bearer.</p>
+               <p>Before the King or His Commiſſioner in time of Parliament.</p>
+               <p>Theſe have been altered in the time of ſome Parliaments.</p>
+            </div>
+            <div type="part">
+               <head>The Chancery.</head>
+               <p>The Director of the <hi>Chancery</hi> an Ancient and Honourable Office, having been formerly the King's Chaplain, <hi>Ergo Clericus.</hi>
+               </p>
+               <p>The Director Deputy, his own two Clerks, and a Regiſter with two Copraters.</p>
+            </div>
+            <div type="part">
+               <head>The <hi>Military</hi> Offices within the Kingdom whoſe Commiſſions are granted by the KING; are</head>
+               <p>The General, and all other Officers under him in Military imploy<g ref="char:EOLhyphen"/>ment, they have their ordinary dues which are known.</p>
+               <p>The Leiutenant General: Of old there were Leiutenants of Shires and Counties, but in deſuetude.</p>
+               <p>The Maſter of the Ordinance, who is ordinarly term'd Lieutenant General of the Artillery; This Office will be the better diſtinguiſhed by riding Marches, betwixt it and the Governour of the Caſtle of <hi>Edinburgh,</hi> to whom it was incommodious of late; the Army lying there.</p>
+               <p>The Major General.</p>
+               <p>The Captains of the Kings Guards of Horſe, who take place, and hath the pay always of a Collonel, and is the firſt Collonel in the Kings Forces, and his two Lieutenants, Cornet, <hi>&amp;c.</hi> Take their places in the Army accordingly.</p>
+               <p>The Collonels firſt of the Kings Guards of Foot, then the Collonels of other Regiments, either Horſe or Foot as they are in, with all the Captains, Leiutenants of Companies and Enſignes with other ſubaltern Officers.</p>
+               <pb n="11" facs="tcp:94866:7"/>
+               <p>Captains and Governours, Lieutenant Governours or Conſtables of<g ref="char:EOLhyphen"/>ten ſo called, and other ſubaltern Officers of the Caſtles and Forts, whereof there are five only in repair, and Garriſoned in <hi>Scotland, viz.</hi> The Caſtle of <hi>Edinburgh,</hi> where the Crown and Honours, and the moſt material Regiſters of the Kingdom are kept, and is a good Poſt commanding the City of <hi>Edinburgh;</hi> here is kept the Kings Caſh when there is any ſtore or quantity of it, of which ſometimes there was an ill accompt made; the Caſtles of <hi>Striviling, Dumbarton, Blackneſs,</hi> and the <hi>Baſs,</hi> but the Earl of <hi>Mar</hi> is heri<g ref="char:EOLhyphen"/>table Keeper of <hi>Striviling</hi> Caſtle, the reſt at the Kings grant.</p>
+               <p>The Muſter Maſter General has his Commiſſion from the King with a yearly Penſion, and ought to be a bred Souldier, being a place of great Truſt in that Sphere.</p>
+            </div>
+            <div type="part">
+               <head>The Lyon-Office.</head>
+               <p>The <hi>Lyon</hi> King at Arms has his Commiſſion ample from the KING with great Priviledges, Immunities and Emoluments; and as it is moſt Antient, ſo it is a moſt Honorable Place.</p>
+               <p>The <hi>Lyon</hi> Clerk.</p>
+               <p>The <hi>Lyon</hi> Heraulds.</p>
+               <p>The Purſuvants.</p>
+               <p>The Lord <hi>Lyon</hi> with thoſe makes a Court, and iſſue Precepts relating to their own Court and Juriſdiction, and have the Fees and Emo<g ref="char:EOLhyphen"/>luments of their Offices.</p>
+               <p>The Meſſengers have their Commiſſions from the Lord <hi>Lyon,</hi> and are convened for Faults, Convict, Sentenced and Puniſhed, or Depri<g ref="char:EOLhyphen"/>ved by this Court, but the creating of too many ignorant Meſſen<g ref="char:EOLhyphen"/>gers contrary to the old Law, is a great Inconveniency and Oppreſſi<g ref="char:EOLhyphen"/>on to the Nation: So that this Crew and the number of them ſhould be regulaer and conform to the old Law, for the fourth part of Meſ<g ref="char:EOLhyphen"/>ſengers now in <hi>Scotland</hi> might ſerve.</p>
+            </div>
+            <div type="part">
+               <head>Mint-Houſe Officers.</head>
+               <p>The General of the <hi>Mint.</hi>
+               </p>
+               <p>The Maſter of the <hi>Mint-Houſe.</hi>
+               </p>
+               <p>The Warden thereof.</p>
+               <p>The Sey Maſter thereof.</p>
+               <p>The Clerk, and many other Inferiour Officers: They have their Fees and Emoluments.</p>
+               <p>This Office has been much abuſed of late by the evil management of the Bullion and Coin.</p>
+            </div>
+            <div type="part">
+               <head>The Kings Ordinary Servants anent his Health.</head>
+               <p>Two Phyſicians in Ordinary, with Penſions, they ſerve the King's Commiſſioner.</p>
+               <p>One <hi>Apothecary.</hi>
+               </p>
+               <p>One <hi>Chyrurgion.</hi>
+               </p>
+               <p>One <hi>Almoner.</hi>
+               </p>
+               <p>More of Honour than of Profit ſince our King liv'd in <hi>England,</hi> only they have ſmall Penſions and are free of all publick burdens, as all the Kings other Servants are.</p>
+               <p>The Biſhops (when in being) have their Commiſſion or Congyde<g ref="char:EOLhyphen"/>lier from the King, which is only but the Kings conſent to the Dean and Chapters election of fit and qualified Perſons for the Offices, in their
+<pb n="12" facs="tcp:94866:8"/>ſeveral Sees, which is the granting of the conſent before the Election real: For this Election being of a long time but a Sham, becauſe the King Orders the chooſing ſuch a Man, the perſon named being recom<g ref="char:EOLhyphen"/>mended by a Court Minion, whether good or bad, the King hardly knowing him; So that the Clergy themſelves having been impoſed upon of a long time, as well as other people, proves a check in that Kingdom, ſince the power of the General Aſſemblies was taken away, and the power thereof centered in one man in every Dioceſs; They conſtitute their Commiſſaries who keep their Courts with their own Clerks, except where the King has the making of Clerks. The See of St. <hi>Andrews</hi> being divided, and the Biſhopwrick of <hi>Edinburgh</hi> taken out of it by King <hi>James</hi> VI. they have the naming of the four Commiſſaries of <hi>Edinburgh</hi> equally between the two Biſhops, but all thoſe Com<g ref="char:EOLhyphen"/>miſſary Courts, which formerly were conſtituted for patronage, and proviſion to the Widow and Fatherleſs, are proven a burthen to both thoſe and the Leiges, by their exactions and quot, and confirmation Money for Teſtaments, though there were never ſo little leſt by the defunct to his Wife and Children; and generally the People in <hi>Scot<g ref="char:EOLhyphen"/>land</hi> ſeldom agree with Biſhops for their Commiſſary-Courts, and many, even ſober, neutral, unbiaſed, and unprepoſſeſſed of the diffe<g ref="char:EOLhyphen"/>rence of Church Government, think that a well conſtitute mo<g ref="char:EOLhyphen"/>derate Presbyterian Government, that had not power to meddle with matters of State or Superintendency, either by Speech or in a Pulpit (which was the firſt Government after the Reformation) and was eſtabliſhed in other well governed Countries, would agree and ſute better with that peoples conſtitution: and theſe Governments and their Conſtitutions may be writ of a part if judged convenient.</p>
+               <p>The King appoints a chief Ranger of his Forreſts, and Keepers of his Parks, but ſome have monopolized the Kings benefit, by the pre<g ref="char:EOLhyphen"/>tenſion of having thoſe things heritable by a long Tract of their poſſeſſion.</p>
+            </div>
+            <div type="part">
+               <head>A Liſt of the Inferiour Officers in <hi>Scotland,</hi> who have their Commiſſions from the King, or of late from the ſeveral Officers of State, other perſons, or Corporations.</head>
+               <head type="sub">Places derived by Commiſſions from the King, ſtill.</head>
+               <p>One or Two Solicitors or Agents for the King: A Penſion.</p>
+               <p>Two Clerks to the Privy Council. Emoluments of that Court.</p>
+               <p>Two or Three Receivers, or Caſh-keepers: A Penſion.</p>
+               <p>Conſervator in the Low Countries: Penſion and Emoluments.</p>
+               <p>One or Two Poſt-Maſters General, and Letter Offices, chiefly in <hi>Edinburgh</hi> and other places: Emoluments and a Penſion.</p>
+               <p>This Office would be extended through all the Kingdom.</p>
+               <p>Clerks to the Treaſury; Emol.</p>
+               <p>Two Clerks to the Exchecquer; Emol.</p>
+               <pb n="13" facs="tcp:94866:8"/>
+               <p>Regiſter to the Theſaury: Emol. Preſenter to the Signatures: Emol.</p>
+               <p>Clerk to the Admiral Court: Emol. Several Sheriffs Clerks: Emol.</p>
+               <p>Some Commiſſary Clerks: Emoluments.</p>
+               <p>Collectors to the Cuſtoms, but that Office would be better regulated in a Commiſſion to the benefit of the Nation, and the publick Re<g ref="char:EOLhyphen"/>venue, which can be made appear to a demonſtration, and it has ſeveral depending Officers: Emoluments.</p>
+               <p>Chamberlain to the Crown Rents of the Earldome of <hi>Roſs</hi> and Lordſhip of <hi>Ardmeanach:</hi> This Office in ſome Hands has been a vaſt Burden to the <hi>Fewers,</hi> and leſs benefit to the King: A Penſion.</p>
+               <p>The Chamberlain of the Crown Rents of <hi>Orkney</hi> and <hi>Schetland:</hi> A Penſion.</p>
+               <p>Collector to the Annuity of Teynds, none for preſent.</p>
+               <p>Surveyer General: A Penſion.</p>
+               <p>Clerks to the Cocquets in ſome places: Caſualities.</p>
+               <p>Collectors of the Church Teynds, if brought in to the Exchecquer, by which great benefits might be made, and the Clergy ſufficient<g ref="char:EOLhyphen"/>ly provided, not in being as yet.</p>
+               <p>Clerk to the High Commiſſion if it continue: Caſualities.</p>
+               <p>Writer to the Privy Seal: Caſualities.</p>
+               <p>Uſher to the Exchecquer: Caſualities.</p>
+               <p>Counter of the Theſaury: Penſion,</p>
+               <p>The Kings Printer: Emoluments. Maſter of the Revels: Emoluments.</p>
+               <p>The Kings Barber, Taylor, Sadler, Shoemaker, <hi>&amp;c.</hi> Penſions.</p>
+               <p>Sadler to the Artillery: Emoluments, and ſmall Penſion.</p>
+               <p>Kings Smith. Kings Maſon: Penſions.</p>
+               <p>Kings Wright or Joyner, and many others of this Nature; all have Penſions.</p>
+            </div>
+            <div type="part">
+               <head>Dependers on the Lord Chancellor in his Office.</head>
+               <p>Appender of the Great Seal: Emoluments.</p>
+               <p>The Caſhiate: Emoluments.</p>
+               <p>The Purſe Bearer. The Mace Bearer: Both Penſions.</p>
+               <p>The Keeper of the Inner-Houſe Roll, and concluded Cauſes: Emol.</p>
+            </div>
+            <div type="part">
+               <head>Dependers on the Theſaurer, or Commiſſioners, and Theſaurer Deputy.</head>
+               <p>All the Inferiour Officers in and about the Theſaury and Exchecquer.</p>
+               <p>The Farmers of Kings Cuſtoms, if in being.</p>
+               <p>The Collectors of Exciſe, and all other Inferiour Collectors of the Kings Rents and Revenues, all have Penſions and Caſualities.</p>
+            </div>
+            <div type="part">
+               <head>Dependers on the Lord Privy Seal.</head>
+               <p>The Keeper of the Privy Seal only, Farmed.</p>
+            </div>
+            <div type="part">
+               <pb n="14" facs="tcp:94866:9"/>
+               <head>Dependers on the Secretaries of State.</head>
+               <p>The Keepers of the Signet one or more, and their Deputies: Allowance of Penſion.</p>
+               <p>All Writers to the Signet: Fees of their Imployment.</p>
+               <p>All Signatures that paſs under the Kings Hand before they come to the Exchecquer, are Signed and Docked by the Secretary, and he is to be anſwerable for what he Docks and Signs, notwithſtanding that the King ſuperſcribes. The dues for Docking only, which is five Pound.</p>
+               <p>Their own Deputies and Servants in their Office.</p>
+               <p>Several others have their Commiſſions that way.</p>
+            </div>
+            <div type="part">
+               <head>Places depending upon the Lord Regiſter bringing Vaſt Ca<g ref="char:EOLhyphen"/>ſualities by their Enteries.</head>
+               <p>The Six Clerks of Seſſion, who are Clerks to the Parliament, and their Six under Clerks, and all Extracters in the Three Offices: All buy their places of the Lord Regiſter: Emoluments.</p>
+               <p>The Clerks of the Bill Chamber, and ſeveral other Clerks there, which is a great Office, and of Great Emoluments.</p>
+               <p>The Sheriffs Rolls and Stewards Rolls, Clerks (who are not many) but theſe are called Clerks of Exchecquer, and the Lord Regiſter gets entry Mony for them and their Deputies: Fees.</p>
+               <p>The Clerks of the Baily Rolls: <hi>Ibidem</hi> Fees.</p>
+               <p>The Clerks of the Burrough Rolls and their Deputies: <hi>Ibidem</hi> Fees.</p>
+               <p>The General Regiſter of Saiſings, <hi>&amp;c.</hi> Fees.</p>
+               <p>The General Regiſter of Hornings and Inhibitions: Fees.</p>
+               <p>All the particular Regiſters of Saiſins, Inhibitions, <hi>&amp;c.</hi> in every Shire and Burrough of the Kingdom: Fees.</p>
+               <p>The Clerk for admiſſion of publick Notaries in the whole Kingdom: Fees.</p>
+               <p>Of late the Keeper of the Rolls of the Outer Seſſion Houſe, and the Keeper of the Minute Book of all things done in the Inner and Outer-Houſe, though it properly belonged to the Lord Preſident, with advice of the Lords.</p>
+               <p>All Clerks to the Juſtices of Peace in the Kingdom: Emoluments.</p>
+               <p>The Keepers of all the Regiſters and Rolls of Parliament, and Seſ<g ref="char:EOLhyphen"/>ſion, laid up in the lower Parliament houſe within the time pre<g ref="char:EOLhyphen"/>ſcribed to be there kept, with all his Subſtitutes, and Sub Clerks<g ref="char:EOLhyphen"/>within the Kingdom. This is a great Emolument likewiſe, and is one of his caſualities, what Fees they pleaſe.</p>
+               <p>There is another Office added to him, Parliament 1685. in the Clerks Office, called Keeper of the Regiſter, which is beneficial and ſeems to be a grievance to the Nation, by the addition of half a Mark Scots mony to him for every Subſcription.</p>
+            </div>
+            <div type="part">
+               <head>The Kings Advocate.</head>
+               <p>He grants only deputations to perſons in his own Office in any part of the Kingdom, where his preſence cannot be in Criminal or Circuit Courts.</p>
+               <pb n="15" facs="tcp:94866:9"/>
+               <p>His own Principal Servant, who in his name paſſes all extraordinary Bills competent to him for his dues, and Summons that are not priviledged without his marking, and Commiſſions for Trial.</p>
+            </div>
+            <div type="part">
+               <head>The Juſtice Clerk.</head>
+               <p>He grants only Commiſſion to the Clerk of Juſtice Court, ſome ſervile Macers, and the Doomſter of that Court.</p>
+            </div>
+            <div type="part">
+               <head>Town of <hi>Edinburgh.</hi>
+               </head>
+               <p>The Two Town Clerks, and the ſeveral Deputies and Dependers in City and Suburbs, the Emoluments of which are great, and a place of great Truſt, who ought to be known Lawyers, and Men of great skill as well as Integrity.</p>
+               <p>Agents for the Burroughs, chiefly diſpos'd of by the Provoſt: A Penſion.</p>
+               <p>Keepers of the Tolbooths or Priſons of <hi>Edinburgh, Leith,</hi> and <hi>Cannon<g ref="char:EOLhyphen"/>gate:</hi> Emoluments</p>
+               <p>Clerk to the Meetings of the whole Burroughs: Emoluments.</p>
+               <p>Clerks to the Kings Cuſtoms there: Penſions.</p>
+               <p>The diſpoſal of many other beneficial places within the City and Sub<g ref="char:EOLhyphen"/>urbs, which with their other Priviledges, Rents caſual and real, and Stems, makes a great publick good; but how imployed, being ſeldom called to an account, though the Lord Theſaurer, or Collector Gene<g ref="char:EOLhyphen"/>ral, or Commiſſioners of the Theſaury are obliged yearly to call them, by vertue of an Act of Parliament, to an account in the Ex<g ref="char:EOLhyphen"/>chequer; neglecting of which, proves a great Detriment to the publick Good of the place</p>
+            </div>
+            <div type="part">
+               <head>Sheriffs and their Deputies, only the Fees and Emoluments.</head>
+               <p>Moſt of the Sheriffs were anciently heritable, and being a matter more of Profit than of Charge, our Kings bought many of their Rights, ſo that there are now ſome of them heritable, ſome by the Kings Gift.</p>
+               <p>The Sheriff may ſit by himſelf, or his Deputy, who judges in or<g ref="char:EOLhyphen"/>dinary Cauſes, as alſo in Thefts, Murder, and leſſer Crimes; but in Murder when the Criminal is taken in hot Blood, though there be no Appeal in this Kingdom, yet any Cauſe may be taken from it by Advo<g ref="char:EOLhyphen"/>cation before Sentence, or Suſpenſion of the Decreit after Sentence by the Lords of Seſſion in Equity, <hi>&amp;c.</hi> and are the ordinary Reaſons given in their Petitions or Bills: theſe Courts are much encroached upon by ſome later Regalities by Repledgiations.</p>
+            </div>
+            <div type="part">
+               <head>A Liſt of the Sheriffdoms of the Shires of <hi>Scotland,</hi> and their Sheriffs.</head>
+               <list>
+                  <item>1 The Shire of <hi>Edinburgh</hi> comprehending <hi>Midlotham.</hi> By the Kings Gift.</item>
+                  <item>2 The Shire of <hi>Berwick</hi> containing <hi>Merce.</hi> Earl of <hi>Hume.</hi>
+                  </item>
+                  <pb n="16" facs="tcp:94866:10"/>
+                  <item>3 The Shire of <hi>Peebles,</hi> containing <hi>Tweddall,</hi> Earl of <hi>Tweddall.</hi>
+                  </item>
+                  <item>4 The Shire of <hi>Selkirk,</hi> containing the Forreſt. <hi>Murray</hi> of <hi>Philiphaugh.</hi>
+                  </item>
+                  <item>5 The Shire of <hi>Roxburgh,</hi> containing <hi>Tevidale,</hi> &amp;c. Duke of <hi>Buccleugh.</hi>
+                  </item>
+                  <item>6 The Shire of <hi>Drumfreis</hi> containing <hi>Nidiſdale, &amp;c.</hi> Formerly Earl of <hi>Drumfreis,</hi> now Duke of <hi>Queensberry.</hi>
+                  </item>
+                  <item>7 The Shire of <hi>Wigtoun,</hi> containing the Weſt part of <hi>Galloway</hi> to <hi>Car<g ref="char:EOLhyphen"/>ruck.</hi> Sir <hi>Andrew Agnew,</hi> but for preſent the Viſcount of <hi>Dundee</hi> by the late incroachment.</item>
+                  <item>8 The Shire of <hi>Air,</hi> containing <hi>Kyle, Carret,</hi> and <hi>Cunningham.</hi> By the Kings Gift.</item>
+                  <item>9 The Shire of <hi>Ranfrew,</hi> containing that Barony. Earl of <hi>Eglintoun.</hi>
+                  </item>
+                  <item>10 The Shire of <hi>Lanerk,</hi> containing <hi>Clidiſdale.</hi> Duke of <hi>Hamilton.</hi>
+                  </item>
+                  <item>11 The Shire of <hi>Dunbarton,</hi> containing <hi>Lenox.</hi> Duke of <hi>Lenox.</hi>
+                  </item>
+                  <item>12 The Shire of <hi>Boot,</hi> containing the Iſles of <hi>Boot</hi> and <hi>Arran. Stuart</hi> of <hi>Boot.</hi>
+                  </item>
+                  <item>13 The Shire of <hi>Interara,</hi> containing <hi>Argile,</hi> and ſome of the Weſtern Iſlands. Earl of <hi>Argile.</hi>
+                  </item>
+                  <item>14 The Shire of <hi>Perth</hi> containing <hi>Atholl</hi> and much Highlands, with the Earldom of <hi>Monteith</hi> and <hi>Trathern.</hi> Marqueſs of <hi>Atholl.</hi>
+                  </item>
+                  <item>15 The Shire of <hi>Striveling</hi> lies on both ſides of the River of <hi>Forth.</hi> Earl of <hi>Marr.</hi>
+                  </item>
+                  <item>16 The Shire of <hi>Linlithgow</hi> containing <hi>Weſtlothian. Hopetoun.</hi>
+                  </item>
+                  <item>17 The Shire of Eaſt <hi>Lothian.</hi> Earl of <hi>Wintoun.</hi>
+                  </item>
+                  <item>18 The Shire of <hi>Clackmannan</hi> containing a part of <hi>Fiffe. Bruce</hi> of <hi>Clockmannan.</hi>
+                  </item>
+                  <item>19 The Shire of <hi>Kinroſs</hi> containing another part of <hi>Fiffe.</hi> Earl of <hi>Mortoun.</hi>
+                  </item>
+                  <item>20 The Shire of <hi>Coupar</hi> contain, the third Diviſion of <hi>Fiffe.</hi> Earl of <hi>Rothes.</hi>
+                  </item>
+                  <item>21 The Shire of <hi>Forfar</hi> containing <hi>Angus</hi> with its pertinents. Earl of <hi>Southesk.</hi>
+                  </item>
+                  <item>22 The Shire of <hi>Kinkardin</hi> containing <hi>Merms.</hi> Earl of <hi>Marſhal.</hi>
+                  </item>
+                  <item>23 The Shire of <hi>Aberdeen</hi> with its ſeveral pertinent of great extent. By Gift.</item>
+                  <item>24 The Shire of <hi>Bamfey</hi> containing part of <hi>Buchan, &amp;c.</hi> Baird of <hi>Auch<g ref="char:EOLhyphen"/>medan.</hi>
+                  </item>
+                  <item>25 The Shire of <hi>Elgin</hi> containing the Eaſtern part of <hi>Morray. Dum<g ref="char:EOLhyphen"/>bar</hi> of <hi>Weſtfield.</hi>
+                  </item>
+                  <item>26 The Shire of <hi>Naim</hi> containing the Weſt part thereof. Sir <hi>Hugh Cambell</hi> of <hi>Calder.</hi>
+                  </item>
+                  <item>27 The Shire of <hi>Innerneſs</hi> containing <hi>Badzenoch, Lochqualer,</hi> and the South part of <hi>Roſs;</hi> but formerly contained all beneath it. Earl of <hi>Morray,</hi>
+                  </item>
+                  <item>28 The Shire of <hi>Cromartie</hi> containing that part of <hi>Roſs</hi> within its Frith. Viſcount of <hi>Tarbat.</hi>
+                  </item>
+                  <item>29 The Shire of <hi>Roſs</hi> containing the <hi>Sky Lewis</hi> and <hi>Harrick.</hi> By Gift.</item>
+                  <item>30 The Shire of <hi>Sutherland</hi> containing <hi>Strathwater.</hi> Earl of <hi>Sutherland.</hi>
+                  </item>
+                  <item>31 The Shire of <hi>Cathnes</hi> containing that Country. Earl of <hi>Cathnes.</hi>
+                  </item>
+                  <item>32 The Shire of <hi>Orkney.</hi> By Gift.</item>
+               </list>
+               <p>The Burghs of Regality and Barony being no State, ſending no Commiſſioners to Parliament, or Convention; and having leſs Privi<g ref="char:EOLhyphen"/>ledges
+<pb n="17" facs="tcp:94866:11"/>and belonging to particular perſons, as the Kings Grants; and where theſe Lords or Barons hold their own particular Courts (but have power of Pit and Gallows) they are not to be treated of here, not concerning the Government much, except it be where late Grants encroaches upon old Juriſdiction.</p>
+            </div>
+            <div type="part">
+               <head>Conſtabularies, Stuarties and Bailaries.</head>
+               <p>
+                  <hi>Conſtabulary</hi> of <hi>Haddingtoun</hi> containing <hi>Eaſt Lothian</hi> and <hi>Lautherdale.</hi> Earl of <hi>Lautherdale</hi> if he repreſent.</p>
+               <p>
+                  <hi>Conſtabulary</hi> of <hi>Dundee,</hi> and other pendicles. Now the Viſcount of <hi>Dundee</hi> by the late alteration.</p>
+               <p>
+                  <hi>Stewartry</hi> of <hi>Strathern</hi> with its pendicles. Earl of <hi>Perth.</hi>
+               </p>
+               <p>
+                  <hi>Stewartry</hi> of <hi>Monteith.</hi> Earl of <hi>Monteith.</hi>
+               </p>
+               <p>
+                  <hi>Stewartry</hi> of <hi>Annandale</hi> with its pertinents. Earl of <hi>Annandale, Johnſton.</hi>
+               </p>
+               <p>
+                  <hi>Stewartry</hi> of <hi>Kirkudbright,</hi> containing all the Eaſt part of <hi>Galloway.</hi> Earl of <hi>Nithiſdale.</hi>
+               </p>
+               <p>
+                  <hi>Bailary</hi> of <hi>Kyle,</hi> in deſuetude.</p>
+               <p>
+                  <hi>Bailary</hi> of <hi>Carrich.</hi> Earl of <hi>Caſſils.</hi>
+               </p>
+               <p>
+                  <hi>Bailary</hi> of <hi>Cunninghame.</hi> Earl of <hi>Eglintoun.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The Royal Boroughs, and the free In-corporations of <hi>Scotland.</hi>
+               </head>
+               <p>Theſe are a State a part, and have their yearly Conventions from which a Commiſſioner comes from every one of them to the Parliament, Convention, or General Meeting of the States of the Kingdom: They make Laws alſo for themſelves about Trade and other things relating to the In-corporations, their Conventions are circular, going round about the head Burghs, and at one Meeting names the other. In theſe Burroughs there is a Provoſt, called the Lord Provoſt in the Metropolitan City of <hi>Edinburgh,</hi> equivalent to the Lord Major in <hi>England,</hi> he is <hi>Prefectus <g ref="char:V">Ʋ</g>rbis.</hi> In <hi>Edinburgh</hi> there are four Bai<g ref="char:EOLhyphen"/>liffs or Aldermen that are next to the Provoſt in the Government: In moſt of all the reſt of the Burrows, there are only their Provoſt, and two Bailiffs or Aldermen. They have alſo their Dean of Gild or Edilis, their Theſaurer and Common Council, all (if Legally cho<g ref="char:EOLhyphen"/>ſen) are choſen by their own Community, conform to their Charters: Their Council of which the one half is choſen by Merchants, the other half by Tradeſmen every Year. The Trades have their Courts, for which there is one from every Trade called the Deacon, and chooſe their Deacon Convener to meet about their own Affairs; theſe Free Corporations are called Free-men of Trade. The Town Council meets once or twice a Week, to conſider the Affairs of their In-corporation, they have their ſeveral diſtinct Courts for adminiſtrating in indifferent Affairs, but their Magiſtrates by their Fundamental Rights continue but one Year; notwithſtanding of any late Court proceedure with which ſome Citizens complied for private intereſt.</p>
+            </div>
+            <div type="part">
+               <pb n="16" facs="tcp:94866:10"/>
+               <head>A Liſt of the Boroughs; and becauſe many of them ſtrive for pre<g ref="char:EOLhyphen"/>cedency they are ſet down in their ſeveral and reſpective Shires.</head>
+               <list>
+                  <label>
+                     <hi>Middle, Eaſt, and Weſt</hi> Lothians.</label>
+                  <item>
+                     <list>
+                        <item>
+                           <hi>Edinburgh</hi> the Metro<g ref="char:EOLhyphen"/>polis.</item>
+                        <item>
+                           <hi>Linlithgow.</hi>
+                        </item>
+                        <item>
+                           <hi>Haddingtoun.</hi>
+                        </item>
+                        <item>
+                           <hi>North Cervick.</hi>
+                        </item>
+                        <item>
+                           <hi>Dunhar.</hi>
+                        </item>
+                        <item>
+                           <hi>Perth</hi> in <hi>Perth-ſhire.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <label>The County of <hi>Fiffe.</hi>
+                  </label>
+                  <item>
+                     <list>
+                        <item>
+                           <hi>St. Andrews.</hi>
+                        </item>
+                        <item>
+                           <hi>Coupar.</hi>
+                        </item>
+                        <item>
+                           <hi>Kirkaldie.</hi>
+                        </item>
+                        <item>
+                           <hi>Crail.</hi>
+                        </item>
+                        <item>
+                           <hi>Anſtruther.</hi>
+                        </item>
+                        <item>
+                           <hi>Pittinweeme.</hi>
+                        </item>
+                        <item>
+                           <hi>Dyſert.</hi>
+                        </item>
+                        <item>
+                           <hi>Earlsferry.</hi>
+                        </item>
+                        <item>
+                           <hi>Kinghorn.</hi>
+                        </item>
+                        <item>
+                           <hi>Innerkerthing.</hi>
+                        </item>
+                        <item>
+                           <hi>Burnt-Iſland.</hi>
+                        </item>
+                        <item>
+                           <hi>Queensferry.</hi>
+                        </item>
+                        <item>
+                           <hi>Dumfermling.</hi>
+                        </item>
+                        <item>
+                           <hi>Cullroſs.</hi>
+                        </item>
+                        <item>
+                           <hi>Clackmannan</hi> in <hi>Clack<g ref="char:EOLhyphen"/>mannan-ſhire.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <label>Angus.</label>
+                  <item>
+                     <list>
+                        <item>
+                           <hi>Dundee.</hi>
+                        </item>
+                        <item>
+                           <hi>Montroſs.</hi>
+                        </item>
+                        <item>
+                           <hi>Forfarr.</hi>
+                        </item>
+                        <item>
+                           <hi>Breiehen.</hi>
+                        </item>
+                        <item>
+                           <hi>Arbroath.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <label>Galloway.</label>
+                  <item>
+                     <list>
+                        <item>
+                           <hi>Kirkudbright.</hi>
+                        </item>
+                        <item>
+                           <hi>Wigtoun.</hi>
+                        </item>
+                        <item>
+                           <hi>Withorn.</hi>
+                        </item>
+                        <item>
+                           <hi>Stranraver.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <label>Clidiſdale.</label>
+                  <item>
+                     <list>
+                        <item>
+                           <hi>Glaſgow.</hi>
+                        </item>
+                        <item>
+                           <hi>Lanerick.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <label>Murray.</label>
+                  <item>
+                     <list>
+                        <item>
+                           <hi>Elgin.</hi>
+                        </item>
+                        <item>
+                           <hi>Nairn.</hi>
+                        </item>
+                        <item>
+                           <hi>Forreſs.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <label>Ranfrow-ſhire.</label>
+                  <item>
+                     <list>
+                        <item>
+                           <hi>Ranfrow.</hi>
+                        </item>
+                        <item>
+                           <hi>Paſley.</hi>
+                        </item>
+                        <item>
+                           <hi>Ruglen.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <label>Marr.</label>
+                  <item>
+                     <list>
+                        <item>
+                           <hi>Aberdeen.</hi>
+                        </item>
+                        <item>
+                           <hi>Kintore.</hi>
+                        </item>
+                        <item>
+                           <hi>Inner-rurie.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <label>Boyn.</label>
+                  <item>
+                     <list>
+                        <item>
+                           <hi>Bamfe.</hi>
+                        </item>
+                        <item>
+                           <hi>Cullen.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <label>Roſs.</label>
+                  <item>
+                     <list>
+                        <item>
+                           <hi>Innerneſs.</hi>
+                        </item>
+                        <item>
+                           <hi>Tayne.</hi>
+                        </item>
+                        <item>
+                           <hi>Dingwall.</hi>
+                        </item>
+                        <item>
+                           <hi>Air</hi> in <hi>Kyle.</hi>
+                        </item>
+                        <item>
+                           <hi>Irvine</hi> in <hi>Cuninghame.</hi>
+                        </item>
+                        <item>
+                           <hi>Rotheſay</hi> in <hi>Boot.</hi>
+                        </item>
+                        <item>
+                           <hi>Dumbarton</hi> in <hi>Lennox.</hi>
+                        </item>
+                        <item>
+                           <hi>Inerrara</hi> in <hi>Argile.</hi>
+                        </item>
+                        <item>
+                           <hi>Jedburgh</hi> in <hi>Tevidale.</hi>
+                        </item>
+                        <item>
+                           <hi>Peebles</hi> in <hi>Tweddall.</hi>
+                        </item>
+                        <item>
+                           <hi>Selkirk</hi> in <hi>Forreſt ſhire.</hi>
+                        </item>
+                        <item>
+                           <hi>Striviling</hi> upon <hi>Forth.</hi>
+                        </item>
+                        <item>
+                           <hi>Dumblain</hi> in <hi>Monteith.</hi>
+                        </item>
+                        <item>
+                           <hi>Dornoch</hi> in <hi>Sutherland.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <label>Annandale.</label>
+                  <item>
+                     <list>
+                        <item>
+                           <hi>Annan.</hi>
+                        </item>
+                        <item>
+                           <hi>Lochmaban.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <label>Nithiſdale.</label>
+                  <item>
+                     <list>
+                        <item>
+                           <hi>Drumfreis.</hi>
+                        </item>
+                        <item>
+                           <hi>Sanquhar.</hi>
+                        </item>
+                        <item>
+                           <hi>Bervy</hi> in <hi>Mernis.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <p>All theſe inferiour Judges and Magiſtrates, though they have their own Law and Cuſtoms to rule by, yet all their deciſions and determi<g ref="char:EOLhyphen"/>nations, centers in the Common, Civil, and Municipal Law, by which the Soveraign Judicatures proceed, and that gives a check to any ir<g ref="char:EOLhyphen"/>regularities that theſe commit in their reſpective Juriſdictions for re<g ref="char:EOLhyphen"/>dreſſing the grieved. Many things might be added to this were it not intended only as an Abreviate, to give a vidimus to thoſe who are not obliged to know ſo much of the preſent State of <hi>Scotland,</hi> and the Incroachments of late.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
